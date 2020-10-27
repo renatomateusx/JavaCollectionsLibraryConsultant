@@ -1,0 +1,16 @@
+com/renatomateusx/consultant/library/collections/MainHashSet.java
+ com.renatomateusx.consultant.library.collections.MainHashSet
+com/renatomateusx/consultant/library/collections/MainTreeMap.java
+ com.renatomateusx.consultant.library.collections.MainTreeMap
+com/renatomateusx/consultant/library/collections/MainArrayList.java
+ com.renatomateusx.consultant.library.collections.MainArrayList
+com/renatomateusx/consultant/library/collections/MainLinkedHashSet.java
+ com.renatomateusx.consultant.library.collections.MainLinkedHashSet
+com/renatomateusx/consultant/library/collections/MainTreeSet.java
+ com.renatomateusx.consultant.library.collections.MainTreeSet
+com/renatomateusx/consultant/library/collections/MainHashMap.java
+ com.renatomateusx.consultant.library.collections.MainHashMap
+com/renatomateusx/consultant/library/collections/MainLinkedHashMap.java
+ com.renatomateusx.consultant.library.collections.MainLinkedHashMap
+com/renatomateusx/consultant/library/collections/MainLinkedList.java
+ com.renatomateusx.consultant.library.collections.MainLinkedList
